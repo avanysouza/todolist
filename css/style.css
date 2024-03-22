@@ -10,7 +10,7 @@ body::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: url("/img/istockphoto-1294385362-2048x2048_Original.JPG");
+  background: url("./img/istockphoto-1294385362-2048x2048_Original.JPG");
   background-size: cover;
   background-position: bottom;
   z-index: -1;
